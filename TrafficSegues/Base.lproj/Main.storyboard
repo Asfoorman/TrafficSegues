@@ -22,7 +22,6 @@
                                 <rect key="frame" x="164" y="318" width="46" height="30"/>
                                 <state key="normal" title="Button"/>
                                 <connections>
-                                    <action selector="unwindToRed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="cK6-Nf-JSe"/>
                                     <segue destination="OWh-qs-EIs" kind="show" id="PX6-Ur-Pyx"/>
                                 </connections>
                             </button>
